@@ -4,7 +4,7 @@
 
 ### made from scratch 
 
-Includes PSR-4 namespaces
+Includes PSR-4 namespaces.
 Small footprint MVC.
 
 ### Project is made for didactic purposes
